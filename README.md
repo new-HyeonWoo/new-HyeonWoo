@@ -1,18 +1,44 @@
-<p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ACBCFF&amp;fontColor=0F1035&amp;height=200&amp;section=header&amp;text=Welcome+to+new-Heyonwoo+Github!👋&amp;fontSize=40"/>
-</p>
+<!-- GitHub Profile README for Choi Hyeonwoo -->
 
-<!--
-**new-HyeonWoo/new-HyeonWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Hi, I'm Hyeonwoo 👋</h2>
+  <p>Back-end Developer / Full-stack Builder</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+<h3 align="center">🛠️ Language & Framework</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebFlux-339933?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutine-FF4088?style=flat-square&logo=kotlin&logoColor=white" />
+</div>
+
+<h3 align="center">💻 Frontend</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</div>
+
+<h3 align="center">🗄️ Database & Messaging</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+</div>
+
+<h3 align="center">⚙️ DevOps</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-00C7B7?style=flat-square&logo=gitlab&logoColor=white" />
+</div>
+
+---
